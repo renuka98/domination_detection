@@ -1,4 +1,4 @@
-#Detecting Destructive Domination in Crowdsourcing.
+# Detecting Destructive Domination in Crowdsourcing.
 
 In this project, we use wiki edit data to detect and analyse three hypotheses related to destructive domination
 1. H1: A destructive form of domination in a crowdsourcing initiative occurs when the creation and subsequent modifications of an artefact are performed by relatively few of the resources that could have performed them and at the (explicit) exclusion of resources that could have contributed constructively.
