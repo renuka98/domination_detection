@@ -7,3 +7,5 @@ In this project, we use wiki edit data to detect and analyse three hypotheses re
 
 3. H3: A destructive form of domination in a crowdsourcing initiative occurs when the constructive contributions of participants is often excluded by a relatively small number of participants.
 
+
+For the analysis, we used the UMDWikipedia Dataset that can be found at https://www.cs.umd.edu/~vs/vews/
